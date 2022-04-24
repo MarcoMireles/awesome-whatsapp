@@ -1,0 +1,33 @@
+#wpwrap{
+    background-color: #f8f8ff;
+}
+#aws-wpp-container form {
+    background-color: #FFFFFF;
+    border: #eaeaea;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 30px;
+    box-shadow: 0px 0px 12px #eaeaea;
+}
+#aws-wpp-container h2 {
+    font-weight: 800;
+    font-size: 30px;
+}
+#aws-wpp-container form label {
+    font-size: 17px;
+    font-family: Poppins;
+}
+#aws-wpp-container form input {
+    padding: 6px 20px;
+    width: 400px;
+    font-size: 17px;
+}
+#aws-wpp-container form textarea {
+    padding: 6px 20px;
+    width: 400px;
+    font-size: 17px;
+
+}
+#aws-wpp-container form table th{
+    width: 300px;
+}

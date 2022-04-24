@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a01d0990-0c48-428f-80d8-e202d5b98430" name="local" url="http://localhost/marco_tutorials">
+        <fileTransfer mountedRoot="C:\laragon\www\marcode_tutorials" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
